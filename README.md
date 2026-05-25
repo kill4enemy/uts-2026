@@ -8,7 +8,15 @@ Raihan Isad
 ## Overview
 
 Website portfolio berbasis Laravel 12 dan Filament v3 untuk menampilkan profile, portfolio project, serta progress laporan project akhir secara dinamis melalui admin panel.
-<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/c6bc7e6f-1ff7-427e-a296-2029363fd023" />
+
+## Screenshot
+
+### Homepage
+![Homepage](docs/homepage.png)
+
+### Admin Panel
+![Admin](docs/admin-panel.png)
+
 
 
 ---
