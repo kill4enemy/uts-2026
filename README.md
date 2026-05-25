@@ -35,6 +35,23 @@ Website portfolio berbasis Laravel 12 dan Filament v3 untuk menampilkan profile,
 - Docker
 - Nginx
 
+# Structure 
+
+```bash
+uts/
+├── db/
+├── docs/
+├── nginx/
+├── php/
+├── src/
+│   ├── app/
+│   ├── database/
+│   ├── public/
+│   ├── resources/
+│   └── routes/
+├── docker-compose.yml
+└── README.md
+```
 ---
 
 ## How to Run Project
