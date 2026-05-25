@@ -27,13 +27,16 @@ Website portfolio berbasis Laravel 12 dan Filament v3 untuk menampilkan profile,
 
 ## Tech Stack
 
-- Laravel 12
-- Filament v3
-- Livewire
-- TailwindCSS
-- MariaDB
-- Docker
-- Nginx
+| Technology | Description |
+|---|---|
+| Laravel 12 | Backend Framework |
+| Filament v3 | Admin Panel |
+| Livewire | Dynamic Frontend |
+| Blade | Templating Engine |
+| MariaDB | Database |
+| Docker | Development Environment |
+| Nginx | Web Server |
+| PHP 8.3 | Backend Language |
 
 # Structure 
 
