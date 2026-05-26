@@ -125,3 +125,7 @@ Source code Laravel berada di dalam folder `src/` untuk memisahkan application s
 
 Raihan Isad  
 20240803024
+
+## License
+This project is open-sourced under the MIT License.
+See the LICENSE file for more information.
