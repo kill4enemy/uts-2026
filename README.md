@@ -12,10 +12,13 @@ Website portfolio berbasis Laravel 12 dan Filament v3 untuk menampilkan profile,
 ## Screenshot
 
 ### Homepage
-![Homepage](docs/homepage.png)
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/b536241b-ea0f-456b-b964-dcd9dcd188b3" />
+
 
 ### Admin Panel
-![Admin](docs/admin-panel.png)
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/ad42f3ab-5425-4bb9-97f4-2a15fbfae5f5" />
+
+
 
 
 
