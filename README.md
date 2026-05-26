@@ -127,5 +127,5 @@ Raihan Isad
 20240803024
 
 ## License
-This project is open-sourced under the MIT License.
+This project is open-sourced under the [MIT License](LICENSE).
 See the LICENSE file for more information.
